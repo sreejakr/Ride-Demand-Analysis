@@ -4,7 +4,7 @@ This interactive Power BI dashboard analyzes hourly and seasonal ride-sharing de
 
 ---
 
-## 📊 Key Metrics & KPIs
+## Key Metrics & KPIs
 
 | Metric                     | Value            |
 |---------------------------|------------------|
@@ -16,7 +16,7 @@ This interactive Power BI dashboard analyzes hourly and seasonal ride-sharing de
 
 ---
 
-## 📌 Dashboard Features
+## Dashboard Features
 
 | Feature                                      | Description                                                                 |
 |---------------------------------------------|-----------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ All visuals are fully **interactive and click-enabled**, allowing users to drill
 
 ---
 
-## 📦 Data Summary
+## Data Summary
 
 > *(Sample or anonymized Capital Bikeshare data used for visualization purposes)*
 
@@ -42,7 +42,7 @@ All visuals are fully **interactive and click-enabled**, allowing users to drill
 
 ---
 
-## 🎯 Insights & Use Cases
+## Insights & Use Cases
 
 This dashboard helps to:
 - Identify **peak hours** for bike rebalancing
